@@ -1,0 +1,2 @@
+# GAVisualEffectView
+实现低版本直接使用UIVisualEffectView获取模糊效果。
